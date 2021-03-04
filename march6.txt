@@ -1,0 +1,2 @@
+All red, we are waiting for green light
+need to write esc : wq
